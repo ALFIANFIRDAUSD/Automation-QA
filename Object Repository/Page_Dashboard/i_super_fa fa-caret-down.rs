@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_super_fa fa-caret-down</name>
+   <tag></tag>
+   <elementGuidId>139f8628-00fa-41bb-860e-5304e9fa5b8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='navbar-icons']/li[4]/a/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.user.dropdown > a.dropdown-toggle > i.fa.fa-caret-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>77aefc85-b476-45c6-b2d6-62d81a794ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-caret-down</value>
+      <webElementGuid>20ff7d9f-6ad2-45fd-8395-cd8ca27a0d50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-icons&quot;)/li[@class=&quot;user dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/i[@class=&quot;fa fa-caret-down&quot;]</value>
+      <webElementGuid>21d5556d-0037-4894-afb0-caf8edf879be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='navbar-icons']/li[4]/a/i[2]</value>
+      <webElementGuid>9148e466-4360-46a6-90a3-94e44b458a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/i[2]</value>
+      <webElementGuid>cacd6e95-3396-4b69-b790-7d0715ad9f7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
